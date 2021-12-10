@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javapracticas14;
+package javapractica14;
 
 import java.util.Scanner;
 
@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author ACER01
  */
-public class JavaPracticas14 {
+public class JavaPractica14 {
 
     /**
      * @param args the command line arguments
